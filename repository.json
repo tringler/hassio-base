@@ -1,0 +1,5 @@
+{
+    "name": "Base Hass.io add-on",
+    "url": "https://github.com/tringler/hassio-base",
+    "maintainer": "Thomas Ringler <mail@thomas-ringler.de>"
+}
