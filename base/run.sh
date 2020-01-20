@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -f /defv/null
+tail -f /dev/null
